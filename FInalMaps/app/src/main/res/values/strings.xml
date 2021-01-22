@@ -11,4 +11,17 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="locButton">Cambiar Ubicacion</string>
+
+    <string-array name="location_array">
+        <item>Mohacs</item>
+        <item>Viena</item>
+        <item>Sebastopol</item>
+        <item>Ciudad de Mexico</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
 </resources>
