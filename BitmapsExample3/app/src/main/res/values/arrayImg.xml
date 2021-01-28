@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <array name="imgDarkSouls">
+    <item>@drawable/ds1</item>
+    <item>@drawable/ds2</item>
+    <item>@drawable/ds3</item>
+    <item>@drawable/ds4</item>
+    <item>@drawable/ds5</item>
+    <item>@drawable/ds6</item>
+    <item>@drawable/ds7</item>
+    <item>@drawable/ds8</item>
+    <item>@drawable/ds9</item>
+    <item>@drawable/ds10</item>
+</array>
+</resources>
